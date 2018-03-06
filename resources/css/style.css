@@ -50,3 +50,8 @@ h2 {
 .para {
   font-size: 14px;
 }
+
+.process.NY {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
