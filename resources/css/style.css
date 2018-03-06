@@ -4,7 +4,8 @@ body {
 }
 
 
-header {
+header,
+.process.NY {
   background-image: url("../images/the-flatiron-building.png");
   background-position: center;
   color: white;
@@ -15,7 +16,6 @@ header h1 {
 }
 
 nav ul li {
-  font-size: 18px;
   list-style: none;
   font-weight: 600;
 }
@@ -26,6 +26,7 @@ nav ul li {
 
 a:link {
   color: white;
+  font-size: 18px;
 }
 
 a:visited {
@@ -51,11 +52,12 @@ h2 {
   font-size: 14px;
 }
 
-.process.NY {
-  background-image: url("../images/the-flatiron-building.png");
+.copy {
+  font-size: 11px;
   color: white;
 }
 
-.para a {
-  color: black;
+footer {
+  background-color: dimgray;
+  text-align: left;
 }
